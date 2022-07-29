@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @amirizalrahmat0799
-- 👀 I’m interested in java
-- 🌱 I’m currently learning spring and hibernate framework
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ..
+# Amirizal Rahmat-@amirizalrahmat0799
+👋: Hey ! I'm a fresh graduate in Diploma Computer System and also self taught developer who main in php and laravel as my stack. You can find my [portfolio](https://ahmadamirizal.site) here, I am a quick learner and hoping to gain more in the fast moving IT industry
 
-<!---
-amirizalrahmat0799/amirizalrahmat0799 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 💬: Feel free to contact me !
+- Email: amirizalrahmat@gmail.com
+- Personal site: https://ahmadamirizal.site
