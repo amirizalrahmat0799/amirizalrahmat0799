@@ -3,5 +3,4 @@
 
 ### 💬: Feel free to contact me !
 - Email: amirizalrahmat@gmail.com
-- Personal site: https://ahmadamirizal.site
 
