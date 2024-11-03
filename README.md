@@ -1,5 +1,5 @@
 # Amirizal Rahmat-@amirizalrahmat0799
-👋: Hey ! I'm a fresh graduate in Diploma Computer System main in Network and server configuration and also self-taught developer who main in various programming language, my first native language is Java and I'm specialize in backend, my priority is to be excellent in fullstack development. You can find my [portfolio](https://amirizalrahmat0799.github.io/myPortfolio) here.
+👋: Hey ! I'm a seasonal developer mainly in java and spring MVC, my current designation as Microservices developer. You can find my [portfolio](https://amirizalrahmat0799.github.io/myPortfolio) here (deprecated).
 
 ### 💬: Feel free to contact me !
 - Email: amirizalrahmat@gmail.com
