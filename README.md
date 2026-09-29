@@ -19,4 +19,4 @@ I build and support payment systems at **Global Blue by Shift4**.
 - Generative AI on AWS (working towards AWS Certified Generative AI Developer – Professional)
 
 ### Find me
-🌐 [ahmadamirizal.site](https://ahmadamirizal.site) · 📧 amirizalrahmat@gmail.com
+🌐 [Portfolio](https://amirizalrahmat0799.github.io/myPortfolio/) · 📧 amirizalrahmat@gmail.com
